@@ -1,0 +1,322 @@
+	/*Small devices (landscape phones)*/
+@media(min-width:320px) and (max-width:480px){
+    
+    .tex_r {
+    padding-bottom: 0px !important;        
+    }
+    
+    .top-head{
+        display: none;
+    }
+    .so_ic{
+        display: none;
+    }
+    .navbar{
+	    padding-bottom: 4px !important;
+    }
+    .navbar-nav {
+        padding: 25px 0px;
+	    margin-right: 0px !important;
+        }
+    
+    .navbar button i{
+        color: #8bc34a;
+        font-size: 25px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link{
+        text-align: center;
+        padding-left: 0px !important;
+        font-size: 16px !important;
+        padding-top: 0px !important;
+    }
+    
+    .banner-slider{
+        height: 400px !important;
+    }
+    
+    .banner-slider .banner-content h2 {
+        font-size: 30px !important;
+        margin-bottom: 15px !important;
+    }
+    
+    .banner-slider .banner-content p {
+        font-size: 14px !important;
+    }
+    
+    .banner-slider .banner-content .banner-btn a{
+	   padding: 10px 15px !important;
+	}
+    
+    #service {
+	    padding-top: 0px !important;
+    }
+    #service .service-content .service-item h5 {
+	    font-size: 20px !important;
+    }
+    
+    #feature .feature-tab .feature-content .freature-text h5 {
+	    padding-top: 20px !important;
+    }
+    .cout_s{
+        padding-bottom: 15px !important;
+    }
+    .card-header .btn-link {
+        font-size: 16px !important;
+    }
+    
+    .pris{
+        padding-bottom: 15px !important;
+    }
+    .mar_top {
+	    margin-top: 0px !important;
+    }
+    
+    #blog {
+	    padding-top: 15px !important;
+        padding-bottom: 40px !important
+    }
+    
+    .single-price-plan .text-left {
+	    padding-left: 59px;
+    }
+    
+    .p_s{
+        padding-left: 15px !important;
+    }
+    
+    .footer-subscribes .subscribes-form button {
+	    right: 55px !important;
+	
+    }
+    .cpy {
+	    text-align: center !important;
+    }
+    
+    .text-right {
+	    text-align: center !important;
+        padding-bottom: 15px;
+    }
+}
+
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media(min-width: 481px) and (max-width: 575.98px) {
+    .tex_r {
+    padding-bottom: 0px !important;        
+    }
+    
+    .top-head{
+        display: none;
+    }
+    .so_ic{
+        display: none;
+    }
+    .navbar{
+	    padding-bottom: 4px !important;
+    }
+    .navbar-nav {
+        padding: 25px 0px;
+	    margin-right: 0px !important;
+        }
+    .navbar button i{
+        color: #8bc34a;
+        font-size: 25px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link{
+        text-align: center;
+        padding-left: 0px !important;
+        font-size: 16px !important;
+        padding-top: 0px !important;
+    }
+    
+    
+    .banner-slider{
+        height: 500px !important;
+    }
+    
+    .cout_s{
+        padding-bottom: 15px !important;
+    }
+    
+    
+    .cout_s{
+        padding-bottom: 15px !important;
+    }
+    .card-header .btn-link {
+        font-size: 16px !important;
+    }
+    
+    .pris{
+        padding: 0px 100px;
+        padding-bottom: 15px !important;
+    }
+    .mar_top {
+	    margin-top: 0px !important;
+    }
+    
+    .p_s{
+        padding-left: 15px !important;
+    }
+    
+    .footer-subscribes .subscribes-form button {
+	    right: 55px !important;
+    }
+    .cpy {
+	    text-align: center !important;
+    }
+    
+    .cpy .text-right{
+        padding-bottom: 20px;
+	    text-align: center !important;
+    }
+    .single-price-plan .price-mid {
+	padding-left: 92px !important;
+}
+    .footer-subscribes .subscribes-form button {
+	right: 78px !important;
+}
+    
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .tex_r {
+    padding-bottom: 0px !important;        
+    }
+     .top-head{
+        display: none;
+    }
+    .navbar{
+	    padding-bottom: 4px !important;
+    }
+    .navbar-nav {
+        padding: 25px 0px;
+	    margin-right: 0px !important;
+        }
+    .navbar button i{
+        color: #8bc34a;
+        font-size: 25px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link{
+        text-align: center;
+        padding-left: 0px !important;
+        font-size: 16px !important;
+        padding-top: 0px !important;
+    }
+    
+    .portfolio-item .port-overlay span {
+	    padding-top: 30px !important;
+    }
+    
+    .cout_s{
+        padding-bottom: 15px !important;
+    }
+    
+    .mar_top {
+	    margin-top: 0px !important;
+    }
+    
+    .pris{
+        padding-bottom: 15px !important;
+    }
+
+    .p_s {
+	    padding-left: 1rem !important;
+    }
+    
+    .footer-subscribes .subscribes-form button {
+	    right: 70px !important;
+    }
+	
+    .cpy {
+	    text-align: center !important;
+    }
+    
+    .cpy .text-right{
+        padding-bottom: 20px;
+	    text-align: center !important;
+    }
+    
+    
+    .so_ic .text-right {
+	    text-align: left !important;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .top-head{
+        display: none;
+    }
+    
+    .tex_r {
+    padding-bottom: 0px !important;        
+    } 
+    
+    .social-icon{
+        padding-bottom: 0px !important;       
+    }
+    .so_ic .text-right {
+	    text-align: left !important;
+    }
+    
+    .navbar{
+	    padding-bottom: 4px !important;
+    }
+    .navbar-nav {
+        padding: 25px 0px;
+	    margin-right: 0px !important;
+        }
+    .navbar button i{
+        color: #8bc34a;
+        font-size: 25px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link{
+        text-align: center;
+        padding-left: 0px !important;
+        font-size: 16px !important;
+        padding-top: 0px !important;
+    }
+    
+    .portfolio-item .port-overlay span {
+        font-size: 20px !important;
+        padding-top: 40px !important;
+    }
+        .cout_s{
+        padding-bottom: 15px !important;
+    }
+    .p_s {
+	    padding-left: 1rem !important;
+    }
+    
+    
+    .mar_top {
+	    margin-top: 0px !important;
+    }
+    
+    .pris{
+        padding-bottom: 30px !important;
+    }
+    
+    .footer-subscribes .subscribes-form button {
+	    right: 25px !important;
+    }
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    
+        .top-head{
+        display: none;
+    }
+    
+    .so_ic .text-right {
+	    text-align: left !important;
+    }
+    
+    .tex_r {
+	    text-align: right !important;
+        }
+    
+    
+}
